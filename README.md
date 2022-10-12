@@ -1,4 +1,4 @@
-- Hey there
+- Hello there 
 - I'm Soma, a Senior DevOps Engineer based in Bangalore, India
 - 👀 I’m interested in DevOps technology.
 - 🌱 I’m currently learning DevOps tools.
