@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning DevOps tools.
 - 💞️ I’m looking to collaborate on DevOps projects.
 - 📫 You can reach out to me via somamehra97@gmail.com
+-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <!---
 Soma281996/Soma281996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
